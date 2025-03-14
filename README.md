@@ -1,2 +1,1 @@
-# -
-Provides a dataset of blue film defects on the surface of lithium-ion battery cells, which can be used for defect detection
+锂离子电池电芯蓝膜表面缺陷数据集
